@@ -6,7 +6,7 @@ I used JH_G01E smart plug with energy metering chip on ESP8266 basis.
 The ESP8266 is flashed by using tuya convert.
 https://github.com/ct-Open-Source/tuya-convert
 
-##How it works
+## How it works
 
 The coffee grinder is always powere (relay closed)
 The energy metering chip on the smart socket detects the time, when the grinder starts (consumed power is rising high) and starts a timer.
