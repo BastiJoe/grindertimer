@@ -4,7 +4,7 @@
 I used JH_G01E smart plug with energy metering chip on ESP8266 basis.
 The ESP8266 is flashed by using tuya convert.
 https://github.com/ct-Open-Source/tuya-convert
-<img src="[https://github.com/BastiJoe/grindertimer/blob/master/App_Screenshot.PNG](https://images-na.ssl-images-amazon.com/images/I/61OKmS467nL._SL1500_.jpg)" width="300">
+<img src="https://github.com/BastiJoe/grindertimer/blob/master/App_Screenshot.PNG](https://images-na.ssl-images-amazon.com/images/I/61OKmS467nL._SL1500_.jpg" width="300">
 
 
 ## How it works
