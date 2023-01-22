@@ -26,5 +26,5 @@ Double Shot mode: (for example single shot is set to 8 seconds, and double to 12
 ## App
 The mobile Apps can be used to adjust the timers and the single/double shot mode
 
-![Screenshot](./App_Screenshot.PNG)
-<img src="https://github.com/BastiJoe/grindertimer/blob/master/App_Screenshot.PNG" width="48">
+
+<img src="https://github.com/BastiJoe/grindertimer/blob/master/App_Screenshot.PNG" width="300">
