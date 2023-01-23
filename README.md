@@ -1,7 +1,7 @@
 # grindertimer
 
 ## Used Hardware
-I used JH_G01E smart plug with energy metering chip on ESP8266 basis.
+I used JH_G01E smart plug with CSE7766 energy metering chip on ESP8266 basis.
 The ESP8266 is flashed by using tuya convert.
 https://github.com/ct-Open-Source/tuya-convert
 
