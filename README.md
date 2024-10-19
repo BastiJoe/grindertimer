@@ -31,3 +31,6 @@ The mobile Apps can be used to adjust the timers and the single/double shot mode
 
 
 <img src="https://github.com/BastiJoe/grindertimer/blob/master/App_Screenshot.PNG" width="300">
+
+
+To use the firmware update functionality in the advanced settings in the app, the password is: fwupdate57
